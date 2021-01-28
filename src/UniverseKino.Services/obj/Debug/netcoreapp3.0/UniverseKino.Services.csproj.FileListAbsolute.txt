@@ -1,0 +1,16 @@
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\appsettings.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\UniverseKino.Services.deps.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\UniverseKino.Services.dll
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\UniverseKino.Services.pdb
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\UniverseKino.Core.dll
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\UniverseKino.Data.dll
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\UniverseKino.Core.pdb
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\bin\Debug\netcoreapp3.0\UniverseKino.Data.pdb
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\obj\Debug\netcoreapp3.0\UniverseKino.Services.csprojAssemblyReference.cache
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\obj\Debug\netcoreapp3.0\UniverseKino.Services.csproj.CoreCompileInputs.cache
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\obj\Debug\netcoreapp3.0\UniverseKino.Services.AssemblyInfoInputs.cache
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\obj\Debug\netcoreapp3.0\UniverseKino.Services.AssemblyInfo.cs
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\obj\Debug\netcoreapp3.0\UniverseKino.Services.csproj.CopyComplete
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\obj\Debug\netcoreapp3.0\UniverseKino.Services.dll
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Services\obj\Debug\netcoreapp3.0\UniverseKino.Services.pdb

@@ -1,0 +1,14 @@
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\bin\Debug\netcoreapp3.0\appsettings.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\bin\Debug\netcoreapp3.0\UniverseKino.Data.deps.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\bin\Debug\netcoreapp3.0\UniverseKino.Data.runtimeconfig.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\bin\Debug\netcoreapp3.0\UniverseKino.Data.runtimeconfig.dev.json
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\bin\Debug\netcoreapp3.0\UniverseKino.Data.dll
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\bin\Debug\netcoreapp3.0\UniverseKino.Data.pdb
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\obj\Debug\netcoreapp3.0\UniverseKino.Data.csprojAssemblyReference.cache
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\obj\Debug\netcoreapp3.0\UniverseKino.Data.csproj.CoreCompileInputs.cache
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\obj\Debug\netcoreapp3.0\UniverseKino.Data.AssemblyInfoInputs.cache
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\obj\Debug\netcoreapp3.0\UniverseKino.Data.AssemblyInfo.cs
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\obj\Debug\netcoreapp3.0\UniverseKino.Data.dll
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\obj\Debug\netcoreapp3.0\UniverseKino.Data.pdb
+E:\1\Програмування\2 курс\SAD\UniverseKino-master\src\UniverseKino.Data\obj\Debug\netcoreapp3.0\UniverseKino.Data.genruntimeconfig.cache
